@@ -1,0 +1,6 @@
+@import "tailwindcss";
+ 
+
+.veg-flag {
+    background-color: green; /* this may override Tailwind class */
+  }
